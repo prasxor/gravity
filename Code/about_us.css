@@ -778,6 +778,7 @@ body {
 .comment-box-1{
     height: 370px;
     width: 300px;
+    /* border: 1px solid green; */
 }
 
 .comment-profile {
@@ -861,6 +862,20 @@ body {
     margin-top: 20px;
     width: 100%;
     flex-direction: column;
+}
+
+.para_icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid yellow; */
+    /* margin-bottom: 20px; */
+}
+.para_icon a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+       /* border: 1px solid red; */
 }
 
 .Name .para_icon i{

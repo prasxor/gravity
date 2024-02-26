@@ -1083,6 +1083,7 @@ body {
 
     .slide_bar {
         text-align: center;
+        padding: 20px;
         /* Center the content horizontally */
     }
 

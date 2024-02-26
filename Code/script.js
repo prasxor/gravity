@@ -47,7 +47,7 @@ document.getElementById('home').addEventListener('click', function (e) {
 
 document.addEventListener("DOMContentLoaded", function () {
     let image = document.getElementById('image');
-    let images = ['./images/poster_1.jpg', './images/poster_2.jpg', './images/poster_3.jpg', './images/poster_4.jpg', './images/poster_5.jpg'];
+    let images = ['images/poster_1.jpg', 'images/poster_2.jpg', 'images/poster_3.jpg', 'images/poster_4.jpg', 'images/poster_5.jpg'];
 
     setInterval(function () {
         let random = Math.floor(Math.random() * 5);
