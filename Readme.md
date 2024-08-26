@@ -2,7 +2,7 @@
 
 **Gravity** is a comprehensive platform designed for students to find and access various academic resources.
 -> Including notes, textbooks, materials, question papers, and optimized notes.
--> The website covers courses like BCA, BSc, [B.Com](http://b.com/), [B.Com](http://b.com/) Computer Applications, and BBA.
+-> The website covers courses like BCA, BSc, B.Com, B.Com Computer Applications, and BBA.
 -> It features a unique, user-friendly design, making it easy to navigate and fully responsive across devices.
 
 ## Features
@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](https://www.notion.so/prasxor/LICENSE) file.
+This project is licensed under the MIT License. For more details, see the [LICENSE](./license.md) file.
 
 ## Screenshots
 
