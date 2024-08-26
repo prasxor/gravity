@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](./license.md) file.
+This project is licensed under the MIT License. For more details, see the [LICENSE](License.md) file.
 
 ## Screenshots
 
