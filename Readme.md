@@ -1,20 +1,19 @@
-Here's a draft for your `README.md` file:
-
-```markdown
 # Gravity
 
 **Gravity** is a comprehensive platform designed for students to find and access various academic resources.
 -> Including notes, textbooks, materials, question papers, and optimized notes.
--> The website covers courses like BCA, BSc, B.Com, B.Com Computer Applications, and BBA.
+-> The website covers courses like BCA, BSc, [B.Com](http://b.com/), [B.Com](http://b.com/) Computer Applications, and BBA.
 -> It features a unique, user-friendly design, making it easy to navigate and fully responsive across devices.
 
 ## Features
+
 - Access to a wide range of academic resources.
 - Optimized notes for efficient study.
 - Responsive and easy-to-navigate design.
 - Coverage of multiple courses.
 
 ## Technologies Used
+
 - **HTML**: Structure of the website.
 - **CSS**: Styling and layout.
 - **JavaScript**: Interactive elements and functionality.
@@ -22,30 +21,36 @@ Here's a draft for your `README.md` file:
 - **FontAwesome**: Icons used throughout the site.
 
 ## Installation Instructions
+
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/prasxor/gravity.git
-   ```
-   
+    
+    ```bash
+    git clone <https://github.com/prasxor/gravity.git>
+    
+    ```
+    
 2. **Navigate to the project directory**:
-   ```bash
-   cd gravity
-   ```
-   
+    
+    ```bash
+    cd gravity
+    
+    ```
+    
 3. **Open the project in your preferred code editor**.
-   
 4. **Launch the project**:
-   - Simply open `index.html` in your web browser to view the website.
+    - Simply open `index.html` in your web browser to view the website.
 
 ## Usage
+
 - Navigate through the website to find the course materials you need.
 - Use the search functionality to quickly locate specific notes or textbooks.
 - Explore different categories and courses to find all related academic resources.
 
 ## License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+
+This project is licensed under the MIT License. For more details, see the [LICENSE](https://www.notion.so/prasxor/LICENSE) file.
 
 ## Screenshots
 
