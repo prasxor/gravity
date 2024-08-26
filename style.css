@@ -495,10 +495,34 @@ body {
     background-color: #ffd833;
 }
 
-.header_1 a:hover {
+.upload_button a:hover {
     color: #0d0d19;
     /* cursor: pointer; */
     background-color: #ffd833;
+}
+.upload_button a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0;
+    border-style: solid;
+    border-width: 3.1px;
+    border-color: #7695FF;
+    border-radius: 32px;
+    transition: 0.3s ease-in-out;
+
+}
+
+.header:hover {
+    color: #0d0d19;
+    /* cursor: pointer; */
+    background-color: #7695FF;
+}
+
+.upload_button a:hover {
+    color: #0d0d19;
+    /* cursor: pointer; */
+    background-color: #7695FF;
 }
 
 .header h2 {
